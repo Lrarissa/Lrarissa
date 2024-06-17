@@ -24,13 +24,11 @@
   <a href="https://www.linkedin.com/in/larissa-souza-de-oliveira-b696b71a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/profiles/76561199069942338/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-
-##
-
 <div align="center">
   <table>
     <tr>
       <td><img src="https://64.media.tumblr.com/af43eca2b14127f2c41c44ae27b421f6/eb88523137dcdc6f-d8/s500x750/93ca886dd3e876cf0e4d546c3ec5a3f07d7455f1.gifv" height="150px" width="250px"></td>
+      <td><img src="https://media1.tenor.com/m/etfl8OlhPIYAAAAC/studying-anime-girl.gif" height="150px" width="250px"></td>
     </tr>
   </table>
 </div>
