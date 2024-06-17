@@ -26,7 +26,7 @@
   <table>
     <tr>
       <td><img src="https://64.media.tumblr.com/af43eca2b14127f2c41c44ae27b421f6/eb88523137dcdc6f-d8/s500x750/93ca886dd3e876cf0e4d546c3ec5a3f07d7455f1.gifv" height="150px" width="250px"></td>
-      <td><img src="https://media1.tenor.com/m/etfl8OlhPIYAAAAC/studying-anime-girl.gif" height="150px" width="250px"></td>
+      <td><img src="https://64.media.tumblr.com/b759df4ba505e5f4e1e9baaf15e2dc96/87c991de2e68a49e-75/s500x750/4aa11d29726df15473fff28a912510eaf4259735.gifv" height="150px" width="250px"></td>
     </tr>
   </table>
 </div>
